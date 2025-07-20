@@ -5,7 +5,7 @@ A simple and responsive drum machine built with HTML, CSS, and JavaScript.
 🎵 All drum sounds are sourced from freeCodeCamp Drum Machine Assets.
 
 ## 🚀 Live Demo
-[Click here to try it out](https://ahameddhaarik.github.io/DrumMachine/)
+[Click here to try it out](https://ahameddhaarik.github.io/Tunepad/)
 
 ## Features
 - Click or press keys (Q–W–E–A–S–D–Z–X–C) to play drum sounds.
